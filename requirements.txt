@@ -1,0 +1,9 @@
+# Linting
+black==23.3.0
+
+# Django
+Django==4.2.2
+djangorestframework==3.14.0
+
+# HTTP
+requests==2.31.0
